@@ -1,0 +1,22 @@
+```json
+[
+  {
+    "name": "Book Club",
+    "description": "A club for book enthusiasts to discuss and explore various literary works.",
+    "schedule": "Mondays at 6pm",
+    "maxAttendance": 10
+  },
+  {
+    "name": "Science Club",
+    "description": "Delve into the wonders of science with experiments, discussions, and guest lectures.",
+    "schedule": "Wednesdays at 5pm",
+    "maxAttendance": 20
+  },
+  {
+    "name": "Manga Club",
+    "description": "Unleash your inner hero and embark on thrilling journeys through the worlds of Japanese Manga! Whether you dream of battling titans, solving mysteries, or discovering magical realms, our club is your gateway to legendary stories, new friends, and endless imagination.",
+    "schedule": "Tuesdays at 7pm",
+    "maxAttendance": 15
+  }
+]
+```
